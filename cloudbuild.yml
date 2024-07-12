@@ -16,3 +16,5 @@ steps:
         "push",
         "europe-southwest1-docker.pkg.dev/manifest-access-428916-p6/image-registry/auth-ms",
       ]
+options:
+  logging: CLOUD_LOGGING_ONLY
